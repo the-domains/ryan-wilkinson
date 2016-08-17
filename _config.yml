@@ -1,0 +1,28 @@
+name: Ryan Wilkinson
+favicon: null
+layout_spectrum: 0.5620670837815851
+typography_spectrum: 0.0693046625237912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4562428300268948
+  lightness: 0.9864703752100468
+  saturation: 0.09764175023883581
+  rhythmicContrast: 0.7384667207952589
+purpose: []
